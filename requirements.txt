@@ -1,0 +1,5 @@
+cairo-nile
+ecdsa
+fastecdsa
+requests
+sympy
